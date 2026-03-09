@@ -1,1 +1,3 @@
-# machine-learning-real-problems
+# This was an assignment for Machine Learning & Big Data. I collected 200 Amazon 1-star reviews from Trust Pilot and categorised them into 5 complaint types. These categories regarded delivery, product quality, customer service, payment, and technical issues.
+# The dataset was uploaded onto Google Colab to be cleaned using Python libraries, while also training and testing machine learning models - Logistic Regression, Linear SVM, and Naive Bayes - on the complaint categories to find the best predictor.
+# Attached is the research report, the dataset of complaints and their categories, and the preprocessing and ML Python script.
