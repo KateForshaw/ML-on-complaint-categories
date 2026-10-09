@@ -23,6 +23,6 @@ This was an assignment for the Machine Learning & Big Data module of my Data Ana
 ## Files
 | File | Description |
 |------|-------------|
-| `CIS4513 coursework.docx` | Full research report: literature review, methodology, results and discussion |
+| `CIS4513 coursework.pdf` | Full research report: literature review, methodology, results and discussion |
 | `CIS4513_coursework.ipynb` | Python notebook covering preprocessing, model training and evaluation |
 | `complaint categories dataset.xlsx` | The labelled dataset of 200 complaints |
